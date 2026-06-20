@@ -107,17 +107,18 @@ Backend — foodbillpro-backend/
 
 ## 📸 Screenshots
 
-| Entry                      | User Menu | Admin Dashboard |
-|----------------------------|---|---|
-| ![Entry](public/entry.png) | ![User Menu](public/usermenu.png) | ![Admin Dashboard](public/dashboard.png) |
+| Entry                      | User Menu                              | Admin Dashboard                               |
+|----------------------------|----------------------------------------|-----------------------------------------------|
+| ![Entry](public/Entry.png) | ![User Menu](public/UserMenu.png) | ![Admin Dashboard](public/Dashboard.png) |
 
-| Products | Add Product | Billing 1 |
-|---|---|---|
-| ![Products](public/products.png) | ![Add Product](public/addproduct.png) | ![Billing 1](public/bill1.png) |
+| Products                              | Add Product                                | Billing 1                           |
+|---------------------------------------|--------------------------------------------|-------------------------------------|
+| ![Products](public/Products.png) | ![Add Product](public/AddProduct.png) | ![Billing 1](public/Bill1.png) |
 
-| Billing 2 | Billing 3 | Bills |
-|---|---|---|
-| ![Billing 2](public/bill2.png) | ![Billing 3](public/bill3.png) | ![Bills](public/bills.png) |
+| Billing 2                           | Billing 3                           | Bills                           |
+|-------------------------------------|-------------------------------------|---------------------------------|
+| ![Billing 2](public/Bill2.png) | ![Billing 3](public/Bill3.png) | ![Bills](public/Bills.png) |
+
 
 ## 📬 Contact
 
